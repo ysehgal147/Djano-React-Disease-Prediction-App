@@ -1,20 +1,41 @@
-# Djano-React-Disease-Prediction-App
+# Disease Prediction
+> Machine Learning Web App capable of predicting over 40+ Diseases based on 100+ Symptoms that can be selected by the User
 
+## Table of contents
+* [General info](#general-info)
+* [Warning](#warning)
+* [Screenshots](#screenshots)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Features](#features)
+* [Status](#status)
+* [Contact](#contact)
 
-![Screenshot from 2021-01-09 20-46-24](https://user-images.githubusercontent.com/65526550/104095589-b4c46b00-52bd-11eb-806b-7974dcc0ff52.png)
+## General info
+Disease Prediction App made using ReactJS, Django, Material UI and Scikit Learn<br>
 
-![Screenshot from 2021-01-09 20-46-34](https://user-images.githubusercontent.com/65526550/104095590-b7bf5b80-52bd-11eb-956b-f2076d700780.png)
+## Warning
+Predictions are not accurate everytime, hence we strongly recommend you to visit a Doctor and not solely rely on Predictions<br>
 
-![Screenshot from 2021-01-09 20-46-41](https://user-images.githubusercontent.com/65526550/104095604-c6a60e00-52bd-11eb-991d-c2212c5e9e1c.png)
+## Screenshots
+<img src="https://raw.githubusercontent.com/ysehgal147/netflix-clone/main/Screenshot%202020-10-26%20at%208.26.59%20PM.png" width="850">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ysehgal147/netflix-clone/main/Screenshot%202020-10-26%20at%208.27.04%20PM.png" width="850">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ysehgal147/netflix-clone/main/Screenshot%202020-10-26%20at%208.28.25%20PM.png" width="850">
+## Technologies
+* ReactJS
+* Django
+* Material UI
+* Scikit Learn
 
-![Screenshot from 2021-01-09 20-46-56](https://user-images.githubusercontent.com/65526550/104095607-ca399500-52bd-11eb-80a3-a728489dc50b.png)
+## Setup
+Download or Clone the Code Files, and Run using standard Django and ReactJS Commands<br>
 
-![Screenshot from 2021-01-09 20-47-07](https://user-images.githubusercontent.com/65526550/104095610-cdcd1c00-52bd-11eb-9391-659b14ce212f.png)
+## Features
+List of features ready
+* Multi Symtom Input 100+ Symptoms
+* Instant Prediction of 40+ Diseases
+* Material UI based UI
 
-![Screenshot from 2021-01-09 20-47-14](https://user-images.githubusercontent.com/65526550/104095614-d160a300-52bd-11eb-99c8-3141b7247c65.png)
+## Status
+Completed
 
-![Screenshot from 2021-01-09 20-47-24](https://user-images.githubusercontent.com/65526550/104095616-d58cc080-52bd-11eb-88eb-70319885a5b9.png)
-
-![Screenshot from 2021-01-09 20-47-30](https://user-images.githubusercontent.com/65526550/104095622-da517480-52bd-11eb-9072-8962bbd6bc22.png)
-
-![Screenshot from 2021-01-09 20-47-39](https://user-images.githubusercontent.com/65526550/104095626-de7d9200-52bd-11eb-886b-2df4778cdcc5.png)
+## Contact
+Created by Yogesh Sehgal, Email: [yogeshsehgal99@rediffmail.com](yogeshsehgal99@rediffmail.com) - feel free to contact me!
