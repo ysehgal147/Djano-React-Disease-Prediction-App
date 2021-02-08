@@ -29,10 +29,11 @@ Predictions are not accurate everytime, hence we strongly recommend you to visit
 Download or Clone the Code Files, and Run using standard Django and ReactJS Commands<br>
 
 For Frontend - Navigate to 'frontend-ui' folder and execute
-## `yarn start`
+# `yarn start`
+
 
 For Backend - Navigate to 'ModelBackend' folder and execute
-## `python mangae.py runserver`
+# `python mangae.py runserver`
 
 ## Features
 List of features ready
