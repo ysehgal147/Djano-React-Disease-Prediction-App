@@ -18,7 +18,7 @@ Disease Prediction App made using ReactJS, Django, Material UI and Scikit Learn<
 Predictions are not accurate everytime, hence we strongly recommend you to visit a Doctor and not solely rely on Predictions<br>
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/ysehgal147/netflix-clone/main/Screenshot%202020-10-26%20at%208.26.59%20PM.png" width="850">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ysehgal147/netflix-clone/main/Screenshot%202020-10-26%20at%208.27.04%20PM.png" width="850">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/ysehgal147/netflix-clone/main/Screenshot%202020-10-26%20at%208.28.25%20PM.png" width="850">
+<img src="https://github.com/ysehgal147/Djano-React-Disease-Prediction-App/blob/main/Screenshot%20from%202021-02-08%2022-01-56.png?raw=true" width="850">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ysehgal147/Djano-React-Disease-Prediction-App/blob/main/Screenshot%20from%202021-02-08%2022-02-36.png?raw=true" width="850">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ysehgal147/Djano-React-Disease-Prediction-App/blob/main/Screenshot%20from%202021-02-08%2022-02-50.png?raw=true" width="850">
 ## Technologies
 * ReactJS
 * Django
@@ -29,11 +29,11 @@ Predictions are not accurate everytime, hence we strongly recommend you to visit
 Download or Clone the Code Files, and Run using standard Django and ReactJS Commands<br>
 
 For Frontend - Navigate to 'frontend-ui' folder and execute
-# `yarn start`
+`yarn start`
 
 
 For Backend - Navigate to 'ModelBackend' folder and execute
-# `python mangae.py runserver`
+`python manage.py runserver`
 
 ## Features
 List of features ready
